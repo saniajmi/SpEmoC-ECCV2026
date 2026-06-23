@@ -22,7 +22,7 @@ The benchmark code, dataset documentation, metadata descriptions, and train/vali
 
 For dataset access requests, please contact:
 
-[spemoc31@gmail.com](mailto:spemoc31@gmail.com)
+[sania.22eez0012@iitrpr.ac.in](mailto:spemoc31@gmail.com)
 
 ### Citation
 
